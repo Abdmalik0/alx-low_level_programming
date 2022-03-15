@@ -1,4 +1,5 @@
 #include "main.h"
+
 int main(void)
 {
 	char putchar[] = "_putchar";
@@ -7,9 +8,11 @@ int main(void)
 
 	while (putchar[i] != '\0')
 	{
+		
 		_putchar(putchar[i]);
 		i++;
 	}
+	
 	_putchar('\n');
 
 	return (0);
