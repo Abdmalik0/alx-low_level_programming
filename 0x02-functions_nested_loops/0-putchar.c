@@ -7,7 +7,7 @@ int main(void)
 {
 
 
-	char_putchar[] = "_putchar";
+	char _putchar[] = "_putchar";
 
 
 	int i = 0;
