@@ -1,7 +1,7 @@
 #include "main.h"
 int main(void)
 {
-	char 0-putchar[] = "_putchar";
+	char (0-putchar)[] = "_putchar";
 
 	int i = 0;
 
